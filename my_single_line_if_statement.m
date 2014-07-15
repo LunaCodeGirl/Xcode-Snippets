@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 if (<#condition#>)
-           0 <#statements#>
+    <#statements#>
