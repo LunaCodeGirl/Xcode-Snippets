@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-assertThat(self.queue.count, is(equalToInteger(2)));
+assertThat<#(self.queue.count, is(equalToInteger(2)));
