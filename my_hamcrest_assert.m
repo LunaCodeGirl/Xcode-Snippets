@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-assertThat<#Type#>(<#Value#>, <#(equalToInteger(2)));
+assertThat<#Type#>(<#Value#>, <#is#><#(equalToInteger(2)));
