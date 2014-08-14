@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-expect(^{[mockController verify];}).toNot.raiseAny();
+expect(^{[< verify];}).toNot.raiseAny();
