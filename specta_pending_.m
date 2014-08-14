@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-xit(@"it should <#expected behavior#>"
+xit(@"it should <#expected behavior#>", ^{
+});
