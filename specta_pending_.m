@@ -1,4 +1,4 @@
-// Specta pending 
+// Specta pending
 // 
 //
 // IDECodeSnippetCompletionPrefix: spen
