@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: switch
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: DA95C97A-3F49-4A24-AFF7-8ACE73B0C6FA
+// IDECodeSnippetIdentifier: 9DE55F76-06E6-4C50-89DA-A027AED8431D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 switch (<#expression#>) {
   case <#constant#>:
     <#statements#>
