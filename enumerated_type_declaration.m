@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: enumdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 5D04838B-FD25-4CA1-BCF7-BA2F6569F1FE
+// IDECodeSnippetIdentifier: A0C27A52-32D1-4B94-A388-7264C664A0CC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 typedef enum : NSUInteger {
     <#MyEnumValueA#>,
     <#MyEnumValueB#>,
