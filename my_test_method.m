@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 3977BD5C-63ED-48CF-8CD1-3CB5BF3C1A25
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)test<#Name#> {
     // Given
     <#Setup#>
