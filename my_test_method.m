@@ -9,10 +9,10 @@
 // IDECodeSnippetVersion: 0
 - (void)test<#Name#> {
     // Given
-    <#
+    <#Setup#>
 
     // When
-
+    
 
     // Then
 
